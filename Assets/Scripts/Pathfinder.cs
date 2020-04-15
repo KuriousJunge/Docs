@@ -53,7 +53,7 @@ public class Pathfinder : MonoBehaviour
         waypoint.isPlaceable = false;
     }
 
-    void 
+    
 
     void LoadBlocks() {
 
